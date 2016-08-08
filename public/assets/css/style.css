@@ -1,0 +1,14 @@
+p {
+	color: green
+	font-family: Arial;
+}
+a {
+	text-decoration: none;
+	border: 2px dotted black;
+	padding: 5px;
+	margin: 10px;
+}
+
+#erin {
+	display: block;
+}
